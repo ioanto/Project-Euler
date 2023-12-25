@@ -1,7 +1,7 @@
 # Project Euler
 
 ## Introduction
-The aim of this project is to showcase some Project Euler's problems along with their solutions, as well as document my journey through the collection of problems. Only 
+The aim of this project is to showcase some Project Euler's problems along with their solutions, as well as document my journey through the collection of problems.
 
 ## Technicalities
 It is worthwhile to clearly define what is considered a successful solution for this project. For a solution to be considered successful, it must satisfy the following properties:
