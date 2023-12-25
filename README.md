@@ -15,13 +15,13 @@ It is no secret that some problems can be solved entirely on paper without the n
 ## Layout
 
 The directory structure for this project is as follows:
-
-```├── README.md                         <-- General project documentation.
+```
+├── README.md                         <-- General project documentation.
 ├── Problem #X
 │   ├── problem_statement.txt         <-- The problem's statement, copied from Project Euler.
 │   ├── solution.py                   <-- The Python problem-solving script. Only returns the answer in the desired format.
-│   ├── approach.md                   <-- Only found in more complex problems, whose solution (whether theory or implementation) is not very straightforward. For completion's sake.```
-
+│   ├── approach.md                   <-- Only found in more complex problems, whose solution (whether theory or implementation) is not very straightforward. For completion's sake.
+```
 ## Problem list
 
 The following table provides an easy way to quickly determine if a problem has been solved, abandoned or not yet attempted. If it is successfully completed, it will be marked with a :heavy_check_mark:. If abandoned a :x: will be used. To avoid unnecessary clutter, the table will only contain problems that *have* been attempted. The problem's release and attempt date is also included, in DD/MM/YY format.
