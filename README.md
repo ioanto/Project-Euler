@@ -5,10 +5,10 @@ The aim of this project is to showcase some Project Euler's problems along with 
 
 ### Technicalities
 It is worthwhile to clearly define what is considered a successful solution for this project. For a solution to be considered successful, it must satisfy the following properties:
-    * The result must be marked as correct by Project Euler.
-    * As little brute-forcing as possible employed.
-    * Each solution must require as little computational time as possible, with a top limit of 1 minute.
-    * Only the Python language must be used.
+* The result must be marked as correct by Project Euler.
+* As little brute-forcing as possible employed.
+* Each solution must require as little computational time as possible, with a top limit of 1 minute.
+* Only the Python language must be used.
 
 It is no secret that some problems can be solved entirely on paper without the need for a computer/algorithm. While such approaches are extremely commendable, for this project all solutions will be reached through an (efficient) algorithm.
 
