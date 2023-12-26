@@ -20,7 +20,7 @@ The directory structure for this project is as follows:
 ├── Problem #X
 │   ├── problem_statement.txt         <-- The problem's statement, copied from Project Euler.
 │   ├── solution.py                   <-- The Python problem-solving script. Only returns the answer in the desired format.
-│   ├── approach.md                   <-- Only found in more complex problems, whose solution (whether theory or implementation) is not very straightforward. For completion's sake.
+│   ├── approach.pdf                   <-- Only found in more complex problems, whose solution (whether theory or implementation) is not very straightforward. For completion's sake.
 ```
 ## Problem list
 
@@ -29,3 +29,4 @@ The following table provides an easy way to quickly determine if a problem has b
 | Problem # | Solved | Attempt Date | Release Date |
 | :-------: | :----: | :----------: | :----------: |
 | 1         | :heavy_check_mark: | 25/12/2023 | 05/10/2001 |
+| 2         | ✔️                | 26/12/2023 | 19/10/2001 |
