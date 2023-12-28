@@ -30,3 +30,4 @@ The following table provides an easy way to quickly determine if a problem has b
 | :-------: | :----: | :----------: | :----------: |
 | 1         | :heavy_check_mark: | 25/12/2023 | 05/10/2001 |
 | 2         | ✔️                | 26/12/2023 | 19/10/2001 |
+| 3         | ✔️                | 28/12/2023 | 02/11/2001 |
