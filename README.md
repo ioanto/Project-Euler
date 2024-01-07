@@ -21,7 +21,7 @@ The directory structure for this project is as follows:
 ├── Problem #X
 │   ├── problem_statement.txt         <-- The problem's statement, copied from Project Euler.
 │   ├── solution.py                   <-- The Python problem-solving script. Only returns the answer in the desired format.
-│   ├── approach.pdf                   <-- Only found in more complex problems, whose solution (whether theory or implementation) is not very straightforward. For completion's sake.
+│   ├── approach.pdf                  <-- Only found in more complex problems, whose solution (whether theory or implementation) is not very straightforward. For completion's sake.
 ```
 ## Problem list
 
@@ -33,3 +33,7 @@ The following table provides an easy way to quickly determine if a problem has b
 | 2         | ✔️                | 26/12/2023 | 19/10/2001 |
 | 3         | ✔️                | 28/12/2023 | 02/11/2001 |
 | 4         | ✔️                | 29/12/2023 | 16/11/2001 |
+| 5         | ✔️                | 30/12/2023 | 30/11/2001 |
+| 6         | ✔️                | 02/01/2024 | 14/12/2001 |
+| 7         | ✔️                | 03/01/2024 | 28/12/2001 |
+| 8         | ✔️                | 04/01/2024 | 11/01/2002 |
